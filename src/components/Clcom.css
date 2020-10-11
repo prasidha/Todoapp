@@ -1,0 +1,36 @@
+.todo_list{
+    background-color:lightblue; 
+    align-items: center;
+    padding:10px;
+    margin:200px;
+    margin-right:900px;
+    height:70vh;
+    border-radius:30px;
+    border:2px solid grey;
+}
+.todo_list >h4{
+    background-color:gainsboro;
+    border-radius:15px;
+    align-items: center;
+    width:100px;
+    text-align: center;
+    color:black;
+    margin-left:45px;
+    border:1px solid ;
+}
+.todo_list > input{
+    border:2px solid  grey;
+    outline-width:0;
+    background-color:lemonchiffon;
+    height: 30px;
+    border-radius:30px;
+    
+    width:210px;
+}
+.todo_list > button {
+margin:15px;
+margin-left:25px;
+
+
+}
+
